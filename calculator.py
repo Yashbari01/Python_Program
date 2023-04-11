@@ -17,4 +17,8 @@ elif cn=="%":
     
     
     Output:
-       
+        Enter your Number :22
+        Enter your Number :22
+        select you calculator function
+        Enter your calcution symbol +,-,*,/,% :+
+        44
