@@ -13,3 +13,8 @@ elif cn=="/":
     print(num1 / num2)
 elif cn=="%":
     print(num1 % num2)
+    
+    
+    
+    Output:
+       
